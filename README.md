@@ -28,4 +28,4 @@ to do list
 * tag proficiencies
 * genre proficiences (determined by clustering of tags)
 
-#take into account how much 
+#take into account hrs played, hrs played compared to avg users, completion rates (achievements), completion rates compared to other users, completion rates compared to other completion rates of the same user
